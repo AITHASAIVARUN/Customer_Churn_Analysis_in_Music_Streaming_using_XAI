@@ -82,12 +82,6 @@ Compare the performance metrics of different models.
 
 - **🔍 Justification**: Achieved the highest accuracy and precision, making it the most effective for predicting customer churn.
 
-## 📊 Results
-
-### 📸 Output Screenshots
-
-Include screenshots of the developed dashboard and results display.
-
 ---
 
 Feel free to adjust any sections as needed!
